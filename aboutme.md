@@ -1,16 +1,44 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## CONTACT INFORMATION
+E-mail : yh.shin@kaist.ac.kr / titk123456@gmail.com
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+--
 
-What else do you need?
+## RESEARCH INTERESTS
 
-### My story
+* Sensor Fusion based on Camera, Radar, Lidar
+* Path Planning / Path Following
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+---
+
+## WORK EXPERIENCE
+
+* **Seadronix Corporation, Korea** - 2021.09~ 2024.01 
+  * Researching on Autonomous Navigation System for Unmanned Surface Vehicles
+( Sensor Fusion, Path Planning , Collision Avoidance , System Integration )
+
+* **HMM Corporation , Korea**, Third Officer - 2020.07~ 2021.08
+* **HMM Corporation , Korea**, Apprentice Officer - 2018.02~ 2018.08 
+  * Ocean-going Merchant Container Vessel Watchkeeping
+  * Ship Maneuvering Operation
+  * Navigation Equipment Operation and Maintenance( RADAR / ECDIS / GPS / echo sounder etc. )
+  * Document work ( Cargo Manifest , Customs , Immigration , Quarantine )
+
+## EDUCATION
+
+## INTERNATIONAL CONFERENCE
+
+## RESEARCH EXPERIENCE
+
+## HONORS & AWARDS
+
+## HONORS & AWARDS
+
+
+
+
+
