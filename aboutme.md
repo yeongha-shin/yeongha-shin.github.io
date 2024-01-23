@@ -6,7 +6,7 @@ title: About Me
 ## CONTACT INFORMATION
 E-mail : yh.shin@kaist.ac.kr / titk123456@gmail.com
 
---
+---
 
 ## RESEARCH INTERESTS
 
@@ -28,16 +28,27 @@ E-mail : yh.shin@kaist.ac.kr / titk123456@gmail.com
   * Navigation Equipment Operation and Maintenance( RADAR / ECDIS / GPS / echo sounder etc. )
   * Document work ( Cargo Manifest , Customs , Immigration , Quarantine )
 
+---
+
 ## EDUCATION
+
+---
 
 ## INTERNATIONAL CONFERENCE
 
+---
+
 ## RESEARCH EXPERIENCE
 
-## HONORS & AWARDS
+---
 
 ## HONORS & AWARDS
 
+---
+
+## HONORS & AWARDS
+
+---
 
 
 
