@@ -11,13 +11,13 @@ author: Yeongha Shin
 
 I got this error, in pycharm project 
 
-'''
+~~~
 findfont: Font family ['Times New Roman'] not found. Falling back to DejaVu Sans.
-'''
+~~~
 
 So I use this command line, and then fix it !
 
-'''
+~~~
 $ sudo apt install msttcorefonts -qq
 $ rm ~/.cache/matplotlib -rf
-'''
+~~~
