@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Computer Vision : Filtering
+title: Computer Vision - Filtering
 subtitle: What is Filtering? What is Local Feature?
 gh-repo: yeongha-shin
 gh-badge: [star, fork, follow]
