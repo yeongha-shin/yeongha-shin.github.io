@@ -13,7 +13,7 @@ author: Yeongha Shin
 1. segmentation 은 어떻게 수행한 것인지?
 2. occlusion에 대해서 어떻게 장시간 tracking 수행할 수 있는 것인지?
 
-![Overview](./assets/img/longterm_occlusion.png)
+![Overview](../assets/img/longterm_occlusion.png)
 
 
 # 1. Introduction
