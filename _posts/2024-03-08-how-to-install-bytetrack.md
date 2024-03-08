@@ -31,8 +31,29 @@ https://jjeongil.tistory.com/1968
 
 # 빌드 실행
 ## docker 빌드
+### docker 이미지 생성
 docker build -t bytetrack:latest . (기존 byteTrack readme에서는 sudo가 없는데, sudo 까지 앞에 붙여야 실행 가능하다!)
 이것은 도커 이미지를 만드는 단계임 (도커 이미지는 : 실행단위를 말한다) : 참고로 꽤 오래 걸리는 명령어이다 !
+
+## Docker running
+- error debugging 1) 
+그 이후에, https://github.com/Xilinx/Vitis-AI/issues/18
+docker run을 수행하기 전에 sudo chmod 666 /var/run/docker.sock명령어를 수행해야,
+docker : unknown server OS 이 에러가 사라지게 된다
+
+- error debugging 2)
+  그리고 Error response from daemon: could not select device driver "" with capabilities: [[gpu]] 
+
+이 원인이 생길 수 있는데,
+그러한 경우에는 nvidia-toolkit을 설치해야 한다
+https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html
+
+https://velog.io/@johyonghoon/docker-Error-response-from-daemon-could-not-select-device-driver-with-capabilities-gpu-%ED%95%B4%EA%B2%B0
+
+- 그러고 나서 docker run을 돌리면 된다 !
+  
+
+
 
 
 
