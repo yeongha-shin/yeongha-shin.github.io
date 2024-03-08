@@ -52,6 +52,18 @@ https://velog.io/@johyonghoon/docker-Error-response-from-daemon-could-not-select
 
 - 그러고 나서 docker run을 돌리면 된다 !
   
+# Dataset 준비
+## 1. MOT17 Download
+https://motchallenge.net/
+여기서 MOT17에 대해서 all files를 다운 받은 다음에,
+파일 폴더 이름을 "mot" 로 변환해야 한다. 지금은 MOT17로 되어 있어서 디렉토리를 인식하지 못할 것이다 !
+
+## 2. coco format으로 변환
+```
+python3 tools/convert_mot17_to_coco.py
+```
+
+
 
 
 
