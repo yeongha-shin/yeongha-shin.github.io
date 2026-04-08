@@ -6,7 +6,7 @@ subtitle: <a href='#'>KAIST MORIN Lab</a>. Ph.D Candidate | Marine Robotics
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 11zon_cropped.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>KAIST MORIN Lab</p>
