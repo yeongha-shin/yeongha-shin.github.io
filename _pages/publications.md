@@ -31,4 +31,7 @@ nav_order: 2
 <h2>Domestic Conference</h2>
 {% bibliography --query @*[keywords=domestic conference] %}
 
+<h2>International Conference Poster</h2>
+{% bibliography --query @*[keywords=international conference poster] %}
+
 </div>
