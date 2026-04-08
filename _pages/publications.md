@@ -15,6 +15,20 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+<h2>International Journal</h2>
+{% bibliography --query @*[keywords=international journal] %}
+
+<hr>
+
+<h2>International Conference</h2>
+{% bibliography --query @*[keywords=international conference] %}
+
+<hr>
+
+<h2>Domestic Journal</h2>
+{% bibliography --query @*[keywords=domestic journal] %}
+
+<h2>Domestic Journal</h2>
+{% bibliography --query @*[keywords=domestic conference] %}
 
 </div>
