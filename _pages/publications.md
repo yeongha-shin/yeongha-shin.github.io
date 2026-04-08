@@ -28,7 +28,7 @@ nav_order: 2
 <h2>Domestic Journal</h2>
 {% bibliography --query @*[keywords=domestic journal] %}
 
-<h2>Domestic Journal</h2>
+<h2>Domestic Conference</h2>
 {% bibliography --query @*[keywords=domestic conference] %}
 
 </div>
